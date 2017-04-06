@@ -1,0 +1,12 @@
+00000000 PlayerStruct    struc ; (sizeof=0x84)
+00000000 field_0:        dc.b 110 dup(?)
+0000006E field_6E:       dc.w ?
+00000070 SlugFlag:       dc.b ?
+00000071 WeaponCode:     dc.b ?
+00000072 field_72:       dc.l ?
+00000076 field_76:       dc.l ?
+0000007A field_7A:       dc.l ?
+0000007E field_7E:       dc.w ?
+00000080 BombCount:      dc.w ?
+00000082 AmmoCount:      dc.w ?
+00000084 PlayerStruct    ends
