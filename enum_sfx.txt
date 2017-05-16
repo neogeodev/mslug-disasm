@@ -2,8 +2,10 @@ SFXVoiceUrgh:    equ $103F
 SFXRopeCut:      equ $1048
 SFXToiletFlush:  equ $104C
 SFXVoiceTarmaDies: equ $1087
+SFXZap:          equ $1098
 SFXBombDrop:     equ $109B
 SFXManualSiren:  equ $10AE
+SFXContinueCount: equ $10D4
 SFXGoArrow:      equ $10D5
 SFXVoiceMetalSlug: equ $10E0
 SFXEjectWarningHigh: equ $10E9

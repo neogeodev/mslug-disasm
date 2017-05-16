@@ -1,0 +1,9 @@
+ROM:00002126 ClearCoinSoundReq:
+ROM:00002126                 clr.b   (ReqCoinSound).l
+ROM:0000212C                 rts
+ROM:0000212C
+ROM:0000212C
+ROM:0000212E
+ROM:0000212E
+ROM:0000212E
+ROM:0000212E

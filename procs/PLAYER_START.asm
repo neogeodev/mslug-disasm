@@ -1,0 +1,5 @@
+ROM:0000084A PLAYER_START:
+ROM:0000084A                 jsr     PStart
+ROM:00000850                 rts
+ROM:00000852
+ROM:00000852
